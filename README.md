@@ -1,4 +1,4 @@
-# Data Visualization Final Project (Group6)
+# Wine Quality Predictor
 
 We created a tool that determines the quality of wines depending on its physiochemical properties: **[VINTLY](https://wine-quality-vintly.herokuapp.com/)**. 
 
